@@ -1,0 +1,15 @@
+.content-sidebar,
+.footer-seo,
+.container-fluid-footer,
+.footer-inner,
+.recipes-social-media,
+.menu-nav,
+.advertising-box,
+.search-top,
+.article-gallery-thumbnails{
+    display: none!important;
+}
+
+.recipe-view-info-inner .recipe-time, .recipe-view-info-inner .rcipe-calories, .recipe-view-info-inner .recipe-servings {
+    padding: 10px;
+}
